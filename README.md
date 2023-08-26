@@ -1,4 +1,4 @@
 # Elite-demo
-this is my new git repository
+This is my new Git Repository
 <br>
-author-OMKAR
+Author-OMKAR
